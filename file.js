@@ -27,3 +27,14 @@ console.log(mood)
 mood="dark";
 console.log(mood);
 // -> dark
+let luigisDebt=140;
+luigisDebt=luigisDebt-35;
+console.log(luigisDebt);
+// -> 105
+let one=1, two=2;
+console.log(one+two);
+// -> 3
+var name="Ayda";
+const greeting="hello ";
+console.log(greeting+name)
+// -> hello Ayda
