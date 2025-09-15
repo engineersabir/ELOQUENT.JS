@@ -14,7 +14,16 @@
 // //True
 // console.log(null==0);
 // //False
-console.log(null||"user");
+// console.log(null||"user");
 // -> user 
-console.log("agnes"||"user");
+// console.log("agnes"||"user");
 // -> Agnes
+// let ten=10;
+// console.log(ten*ten)
+// -> 100
+let mood="light";
+console.log(mood)
+// -> light
+mood="dark";
+console.log(mood);
+// -> dark
