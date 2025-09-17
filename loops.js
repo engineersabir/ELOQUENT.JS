@@ -11,4 +11,19 @@ while(number<=12){
  }
  console.log(result);
  // -> 1024
- 
+ let yourName;
+ do{
+    yourName=prompt(" who are you?");
+ }while(!yourName);
+ console.log(yourName);
+// console.clear()
+
+const string="The revolution willnot be televised";
+console.log(string)
+const one="hello, "
+const two="how are you ?"
+const joined=`${one}${two}`
+console.log(joined);
+const name =" chris";
+const greeting=`Hello, ${name}`;
+console.log(greeting);
