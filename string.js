@@ -13,3 +13,7 @@ console.log(bun);
 let c=5.6789;
 let can=Number.toFixed(3);
 console.log(can);
+console.log(can);
+console.log(can);
+console.log(can);
+console.log(can);
