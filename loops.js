@@ -43,3 +43,15 @@ for(let counter=0;counter<10;counter=counter+1){
    result=result*2;
 }
 console.log(result);
+const person={
+   firstName:"john",
+   lastName:"Doe",
+   age:46
+};
+console.log(person);
+const fruits=["banana","apple",'orange']
+fruits.push("lemon");
+console.log(fruits);
+for (let step=0;step<5;step++){
+   console.log("Walking east one step");
+}
